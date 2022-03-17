@@ -25,7 +25,7 @@ Crie uma pasta chamada "Acessórios" dentro da sua scriptfiles
 
 Se você quiser adicionar mais objetos, adicione a quantide ao valor já contido em `#define MAX_ACCESSORIES`
 
-Para aumentar ou diminuir a quantidade de SLOTS disponível para cada player, altere o valor de #define MAX_SLOTS
+Para aumentar ou diminuir a quantidade de SLOTS disponível para cada player, altere o valor de `#define MAX_SLOTS`
 
 # Screenshots
 
