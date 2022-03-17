@@ -1,9 +1,11 @@
-// Sistema de acessórios por Dath, para mais projetos acesse: https://github.com/LuanMarinho1
+/**********************************************************************************************/
+// Sistema de Acessórios 1.0 - By Dath. https://github.com/LuanMarinho1/Sistema-de-Acessorios //
+/**********************************************************************************************/
 #include <a_samp>
 #include <zcmd>
 #include <sscanf2>
 #include <DOF2>
-#include <Newdialogs>
+#include <PreviewModelDialog>
 
 #define DialogSlots 150
 #define DialogLocais 151
